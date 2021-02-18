@@ -1,10 +1,10 @@
-new york times one page project
 
+***New York Times Page***
 
 this is a project about new york times clone using HTML and CSS. This one page project for mircoverse in first week – completed 19 feb – sets out to deliver on one article for new york times about space.
 
  
-Built With
+***Built With***
 
 HTML
 
@@ -14,7 +14,7 @@ flexbox
 
 
 
-Live Demo
+***Live Demo***
 
 https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0
 
@@ -22,7 +22,7 @@ https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-but
 
 
 
-Show your support
+***Show your support***
 
 Give a ⭐️ if you like this project!
 
