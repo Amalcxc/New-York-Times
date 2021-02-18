@@ -22,7 +22,7 @@ flexbox
 
 Live Demo
 
-https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0
+https://amalcxc.github.io/New-York-Times/
 
 Show your support
 
