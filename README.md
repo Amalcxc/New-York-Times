@@ -20,9 +20,10 @@ CSS
 
 flexbox
 
-**Live Demo**
+[live Demo](https://amalcxc.github.io/New-York-Times/)
+ 
 
-https://amalcxc.github.io/New-York-Times/
+
 
 
 **Author**
