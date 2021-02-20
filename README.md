@@ -1,7 +1,7 @@
 article from the New York Times project 
 
 
-<img src="full-project/images/Screen Shot 2021-02-19 at 9.32.35 PM.png">
+<img src="full-project/images/Screen Shot 2021-02-19 at 1.51.30 AM.png">
 
 New York Times Page
 
